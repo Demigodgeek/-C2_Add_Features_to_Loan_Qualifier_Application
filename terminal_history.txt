@@ -1,0 +1,996 @@
+   50  jupyter lab
+   51  cd desktop
+   52  ls
+   53  cd UCB
+   54  cd UCB-VIRT-FIN-PT-12-2022-U-B
+   55  git pull
+   56  conda activate dev
+   57  jupyter lab
+   58  conda actavite dev
+   59  conda activate dev
+   60  cd desktop
+   61  cd UCB
+   62  ls
+   63  cd M08
+   64  cd P01
+   65  LS
+   66  cd Stock_Analysis_Recommendations
+   67  ls
+   68  streamlit run stream_app.py
+   69  cd desktop
+   70  git clone https://github.com/MrWho2u/Stock_Analysis_Recommendations.git
+   71  conda activate dev
+   72  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/stock_tables_plugin.py
+   73  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/stock_tables_plugin.py
+   74  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/stock_tables_plugin.py
+   75  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/stock_tables_plugin.py
+   76  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/stock_tables_plugin.py
+   77  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/stock_tables_plugin.py
+   78  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_app.py
+   79  cd desktop
+   80  conda activate dev
+   81  cd UCB
+   82  cd P1
+   83  ls
+   84  cd P01
+   85  cd Stock_Analysis_Recommendations
+   86  streamlit run stream_app.py
+   87  conda activate dev
+   88  cd desktop
+   89  cd Stock_Analysis_Recommendations
+   90  streamlit run stream_app.py
+   91  conda activate dev
+   92  jupyter lab
+   93  cd desktop
+   94  git clone https://github.com/MrWho2u/Stock_Analysis_Recommendations.git
+   95  conda activate dev
+   96  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_app_demi.py
+   97  conda activate dev
+   98  /Users/demigod/opt/anaconda3/envs/dev/bin/python Untitled-1
+   99  /Users/demigod/opt/anaconda3/envs/dev/bin/python "/Users/demigod/Desktop/import requests.py"
+  100  /Users/demigod/opt/anaconda3/envs/dev/bin/python "/Users/demigod/Desktop/import requests.py"
+  101  /Users/demigod/opt/anaconda3/envs/dev/bin/python "/Users/demigod/Desktop/import requests.py"
+  102  /Users/demigod/opt/anaconda3/envs/dev/bin/python "/Users/demigod/Desktop/import requests.py"
+  103  /Users/demigod/opt/anaconda3/envs/dev/bin/python "/Users/demigod/Desktop/import requests.py"
+  104  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/ticker_checker_plugin.py
+  105  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/ticker_checker_plugin.py
+  106  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/ticker_checker_plugin.py
+  107  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/Stock_Analysis_Recommendations/stream_modules/ticker_checker_plugin.py
+  108  /Users/demigod/opt/anaconda3/envs/dev/bin/python "/Users/demigod/Desktop/import requests.py"
+  109  conda activate dev
+  110   /usr/bin/env /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56283 -- /Users/demigod/Desktop/import\ requests.py 
+  111   cd /Users/demigod/Desktop/Stock_Analysis_Recommendations ; /usr/bin/env /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56303 -- /Users/demigod/Desktop/import\ requests.py 
+  112   cd /Users/demigod/Desktop/Stock_Analysis_Recommendations ; /usr/bin/env /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/.vscode/extensions/ms-python.python-2023.2.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56313 -- /Users/demigod/Desktop/import\ requests.py 
+  113  conda activate dev 
+  114  cd desktop
+  115  cd Stock_Analysis_Recommendations
+  116  streamlit run stream_app_demi.py
+  117  conda activate dev
+  118  cd desktop
+  119  cd steam_modules
+  120  cd stream_modules
+  121  streamlit run stream_app_demi.py
+  122  conda activate dev
+  123  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/streamlit/stream_app.py
+  124  cd desktop
+  125  cd streamlit
+  126  conda activate dev
+  127  streamlit run stream_app_demi
+  128  streamlit run stream_app.py
+  129  conda activate dev
+  130  cd desktop
+  131  cd streamlit
+  132  streamlit run demi.py
+  133  conda activate dev
+  134  cd desktop
+  135  cd demi_streamlit
+  136  streamlit run demi_streamlit.py
+  137  cd desktop
+  138  cd demi_streamlit
+  139  conda activate dev
+  140  streamlit run demi_streamlit.py
+  141  conda activate dev
+  142  conda activate dev
+  143  cd desktop
+  144  ls
+  145  cd UCB
+  146  ls
+  147  cd P01
+  148  ls
+  149  cd demi_streamlit
+  150  ls
+  151  streamlit run demi_streamlit.py
+  152  conda activate dev
+  153  cd desktop
+  154  cd UCB
+  155  ls
+  156  cd P01
+  157  ls
+  158  cd Stock_Analysis_Recommendations
+  159  ls
+  160  streamlit run stream_app.py
+  161  conda activate dev
+  162  jupyterlab
+  163  jupyter lab
+  164  git clone https://github.com/MrWho2u/Stock_Analysis_Recommendations.git
+  165  cd desktop
+  166  git clone https://github.com/MrWho2u/Stock_Analysis_Recommendations.git
+  167  cd Stock_Analysis_Recommendations
+  168  ls
+  169  streamlit run stream_app.py
+  170  cd desktop
+  171  cd UCB
+  172  cd P01
+  173  LS
+  174  sreamlit run demi_streamlit
+  175  streamlit run demi_streamlit
+  176  streamlit run demi_streamlit.py
+  177  cd demi_streamlit 
+  178  streamlit run demi_streamlit.py
+  179  conda activate dev
+  180  conda list sqlalchemy
+  181  conda list voila
+  182  jupyter lab
+  183  cd conda avtivate
+  184  conda activate dev
+  185  conda activate dev install -c conda-forge fbprophet -y
+  186  conda activate dev install -c conda-forge fbprophet -y install -c conda-forge fbprophet
+  187  conda activate dev install -c conda-forge fbprophet -y install -c conda-forge fbprophet install -c conda-forge fbprophe
+  188  pip install fbprophet
+  189  conda install -c conda-forge fbprophet
+  190  pip install --upgrade setuptools
+  191  pip install fbprophet
+  192  pip install
+  193  pip install --upgrade pip
+  194  pip uninstall aiohttp
+  195  pip install aiohttp==3.6.3
+  196  pip install fbprophet
+  197  xcode-select - install
+  198  xcode-select --install
+  199  pip install pystan
+  200  pip install fbprophet
+  201  pip uninstall fbprophet pystan
+  202  pyp install pystan
+  203  pip install pystan
+  204  import pystan
+  205  import pystan
+  206  conda install -c conda-forge pystan
+  207  conda install -c conda-forge fbprophet
+  208  pip install pystan install fbprophet
+  209  conda activate dev
+  210  pip install pystan
+  211  pip install fbprophet
+  212  pip install prophet
+  213  conda activate dev
+  214  jupyter lab
+  215  conda activate dev
+  216  jupyter lba
+  217  jupyter lab
+  218  conda activate dev
+  219  pip install prophet install prophet
+  220  pip install prophet install prophet install hvplot
+  221  pip install prophet install prophet install hvplot install hvplot
+  222  pip install prophet install prophet install hvplot install hvplot install holoviews
+  223  cd desktop
+  224  cd UCB
+  225  ls
+  226  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  227  git pull
+  228  cd desktop
+  229  cd UCB
+  230  LS
+  231  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  232  git pull
+  233  conda activate dev
+  234  jupyter lab
+  235  conda activate dev
+  236  pip install prophet install prophet install hvplot install hvplot install holoviews install prophet --upgrade
+  237  pip install prophet install prophet install hvplot install hvplot install holoviews install prophet --upgrade uninstall prophet
+  238  pip install prophet install prophet install hvplot install hvplot install holoviews install prophet --upgrade uninstall prophet install prophet
+  239  pip install prophet install prophet install hvplot install hvplot install holoviews install prophet --upgrade uninstall prophet install prophet install prophet
+  240  pip install prophet install prophet install hvplot install hvplot install holoviews install prophet --upgrade uninstall prophet install prophet install prophet install prophet --upgrade
+  241  pip uninstall prophet
+  242  pip install prophet
+  243  cd desktop
+  244  git clone git@github.com:Demigodgeek/C11_forecasting_net_prophet.git
+  245  conda activate dev
+  246  jupyter lab
+  247  conda activate dev
+  248  jupyter lab
+  249  conda activate dec
+  250  conda activate dev
+  251  jupyter lab
+  252  cd desktop
+  253  cd UCB
+  254  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  255  git pull
+  256  conda activate dev
+  257  jupyter lab
+  258  conda active dev
+  259  conda activate dev
+  260  conda install -c conda-forge imbalanced-learn
+  261  conda list imbalance-learn
+  262  conda list imbalanced-learn
+  263  conda activate dev
+  264  conda install -c conda-forge pydotplus
+  265  conda list pydotplus
+  266  jupyter lab
+  267  cd UBC
+  268  cd desktop/UCB 
+  269  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  270  git pull
+  271  git hub
+  272  git pull
+  273  conda activate dec
+  274  conda activate dev
+  275  jupyter lab
+  276  cd desktop/ucb
+  277  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  278  git pull
+  279  conda activate dev
+  280  jupyter lab
+  281  conda activate dev
+  282  jupyter lab
+  283  python hello.py
+  284  python hello.py
+  285  python hello.py
+  286  python hello.py
+  287  /usr/bin/python3 /Users/demigod/Desktop/CS50/hello.py
+  288  /usr/bin/python3 /Users/demigod/Desktop/CS50/calculator.py
+  289  /usr/bin/python3 /Users/demigod/Desktop/CS50/calculator.py
+  290  /usr/bin/python3 /Users/demigod/Desktop/CS50/calculator.py
+  291  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  292  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  293  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  294  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  295  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  296  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  297  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  298  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  299  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  300  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  301  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  302  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  303  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  304  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  305  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  306  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  307  /usr/bin/python3 /Users/demigod/Desktop/CS50/def.py
+  308  conda activate dev
+  309  jupyter lab
+  310  conda activate tf_env_38
+  311  /Users/demigod/miniforge3/envs/tf_env_38/bin/python "/Users/demigod/Downloads/import tensorflow as tf.py"
+  312  /usr/bin/python3 "/Users/demigod/Desktop/import tensorflow as tf.py"
+  313  /usr/bin/python3 Untitled-1
+  314  /usr/bin/python3 /Users/demigod/Downloads/python.py
+  315  /usr/bin/python3 /Users/demigod/Downloads/python.py
+  316  conda activate dev
+  317  conda info --envs
+  318  cd desktop
+  319  cd UCB
+  320  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  321  git pull
+  322  cd desktop
+  323  cd u
+  324  cd UCB
+  325  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  326  git pull
+  327  git pull
+  328  conda activate tf_env_38
+  329  pip install scikit-learn
+  330  pip install pandas
+  331  pip install matplotlib
+  332  pip install pathlib
+  333  cd download
+  334  cd downloads
+  335  sh Miniforge3-MacOSX-arm64.sh
+  336  conda create --name tf_env
+  337  conda activate tf_env
+  338  pip install tensorflow keras
+  339  cd ..
+  340  pip install tensorflow keras
+  341  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  342  pip install python
+  343  brew install python
+  344  cd desktop
+  345  cd UCB
+  346  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  347  git pull
+  348  conda activate dev
+  349  pip install --upgrade tensorflow
+  350  python -c "import tensorflow as tf;print(tf.__version__)"
+  351  import tensorflow as tf\nprint(tf.__version__)
+  352  conda activate dev
+  353  jupyter lab
+  354  conda activate tf_env
+  355  conda create --name tf_env
+  356  conda activate tf_env\n
+  357  pip install tensorflow keras
+  358  conda install -c Miniforge3 tensorflow keras
+  359  conda install tensorflow keras
+  360  pip list | grep tensorflow
+  361  python --version
+  362  pip install python3.7
+  363  conda install python=3.7
+  364  python --version
+  365  conda config --add channels conda-forge
+  366  conda install python=3.7
+  367  conda create -n tf_env_37 python=3.7
+  368  (tf_env) demigod@CHANGs-MBP ~ % conda create -n tf_env_37 python=3.7\nCollecting package metadata (current_repodata.json): done\nSolving environment: failed with repodata from current_repodata.json, will retry with next repodata source.\nCollecting package metadata (repodata.json): done\nSolving environment: failed\n\nPackagesNotFoundError: The following packages are not available from current channels:\n\n  - python=3.7\n\nCurrent channels:\n\n  - https://conda.anaconda.org/conda-forge/osx-arm64\n  - https://conda.anaconda.org/conda-forge/noarch\n  - https://repo.anaconda.com/pkgs/main/osx-arm64\n  - https://repo.anaconda.com/pkgs/main/noarch\n  - https://repo.anaconda.com/pkgs/r/osx-arm64\n  - https://repo.anaconda.com/pkgs/r/noarch\n\nTo search for alternate channels that may provide the conda package you're\nlooking for, navigate to\n\n    https://anaconda.org\n\nand use the search bar at the top of the page.
+  369  conda create -n tf_env_38 python=3.8
+  370  conda activate tf_env_38
+  371  pip install tensorflow keras
+  372   conda update -n base -c conda-forge conda
+  373  pip install tensorflow keras
+  374  pip install tensorflow-macos
+  375  pip install keras
+  376  code .
+  377  jupyter lab
+  378  conda install jupyterlab
+  379  jupyter lab
+  380  conda activate tf_env_38
+  381  pip install keras install --upgrade scikit-learn
+  382  pip install keras install --upgrade scikit-learn install --upgrade scikit-learn
+  383  conda activate tf_env_38
+  384  jupyter lab
+  385  ocnda activate tf_env_38
+  386  conda activate tf_env_38
+  387  jupyter lab
+  388  conda activate tf_env_38
+  389  jupyter lab
+  390  conda activate tf_env_38
+  391  jupyter lab
+  392  conda activate tf_env_38
+  393  conda activate tf_env_38
+  394  conda activate tf_env_38
+  395  conda activate dev
+  396  conda activate tf_env_38
+  397  install hvplot
+  398  pip install hvplot
+  399  pip install pathlib
+  400  conda activate dev
+  401  conda info --envs
+  402  conda activate dev
+  403  conda activate tf_env_38
+  404  jupyter lab
+  405  tf_nev_38
+  406  conda activate tf_env_38
+  407  cd desktop
+  408  cd USB
+  409  cd UCB
+  410  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  411  git pull
+  412  git pull
+  413  git pull
+  414  git pull
+  415  conda activate tf_env_38
+  416  pip install requests
+  417  pip install json
+  418  conda list json
+  419  conda install -c conda-forge json
+  420  conda activate tf_env_38
+  421  pip install finta
+  422  jupyter lab
+  423  cd desktop
+  424  cd UCB
+  425  git pull
+  426  conda activate tf_env_38
+  427  jupyter lab
+  428  conda activate tf_env_38
+  429  jupyter lab
+  430  conda activate tf_env_38
+  431  jupter lab
+  432  jupyter lab
+  433  conda activate tf_env_38
+  434  jupyter lab
+  435  cd desktop
+  436  cd UCB
+  437  git clone git@github.com:Best-Brain-Gang/roboadvisor-diversification.git
+  438  cd desktop
+  439  cd UCB
+  440  git clone git@github.com:Best-Brain-Gang/twitter_sentiment_analysis.git
+  441  $SHELL
+  442  conda activate tf_env_38
+  443  jupyter lab
+  444  export PATH="/Users/your_username/anaconda3/bin:$PATH"
+  445  sudo nano /etc/paths
+  446  conda activate dev
+  447  conda list request
+  448  conda list json
+  449  conda install -c anaconda requests
+  450  conda install -c jmcmurray json
+  451  conda list request
+  452  conda list json
+  453  pip install python-dotenv
+  454  pip install alpaca-trade-api
+  455  pip list alpaca-trade-api
+  456  pip list | grep -E "python-dotenv|alpaca-trade-api"
+  457  python --version
+  458  conda env list
+  459  conda create -n dev python=3.9 anaconda
+  460  conda activate dev
+  461  python --version
+  462  code .
+  463  pip -V
+  464  pip freeze
+  465  pip install fire
+  466  pip install questionary
+  467  git config --global user.name Demi Gao
+  468  git config --global user.email gaodemi@outlook
+  469  git config --list
+  470  git git config --global --unset user.name Demi
+  471  git config --global --unset user.name Demi
+  472  git config --global --unset-all user.name
+  473  git config --list
+  474  git config --global user.name Demigodgeek
+  475  git config --global user.email gaodemi@outlook.com
+  476  git config --list
+  477  pwd
+  478  jupyter lab
+  479  jupyter lab --ContentsManager.allow_hidden=True
+  480  conda activate dev
+  481  conda install -c pyviz hvplot geoviews
+  482  conda list hvplot\n conda list geoviews
+  483  conda list sqlalchemy
+  484  pip install SQLALchemy
+  485  conda list sqlalchemy
+  486  conda install -c conda-forge voila
+  487  conda activate dev
+  488  conda install -c conda-forge voila
+  489  pip install -U scikit-learn
+  490  conda list scikit-learn
+  491  pip list pystan
+  492  pip list prophet
+  493  pip install holoviews
+  494  conda install -c conda-forge imbalanced-learn
+  495  conda list imbalanced-learn
+  496  conda install -c conda-forge pydotplus
+  497  conda list pydotplus
+  498  pip install tensorflow-macos
+  499  pip install keras
+  500  cd desktop
+  501  cd ucb
+  502  cd P02
+  503  git clone git@github.com:mvram123/Money_Laundering_Detection.git
+  504  git clone git@github.com:cpease00/etf_forecasting.git
+  505  git clone git@github.com:lambertopisani/Udacity_ML_Projects.git
+  506  conda activate dev
+  507  jupyter lab --ContentsManager.allow_hidden=True
+  508  cd desktop
+  509  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2022-U-B.git
+  510  conda activate dev
+  511  jupyter lab
+  512  cd desktop
+  513  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2022-U-B.git
+  514  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/[BIG_BANG]_bigb_etf_analysis/verify_function.py
+  515  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/[BIG_BANG]_bigb_etf_analysis/verify_function.py
+  516  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/[BIG_BANG]_bigb_etf_analysis/verify_function.py
+  517  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/[BIG_BANG]_bigb_etf_analysis/verify_function.py
+  518  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/[BIG_BANG]_bigb_etf_analysis/verify_function.py
+  519  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/bigb_etf_analysis/verify_function.py
+  520  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/bigb_etf_analysis/verify_function.py
+  521  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/bigb_etf_analysis/verify_function.py
+  522  git push -u origin new-branch
+  523  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/bigb_etf_analysis/verify_function.py
+  524  cd desktop/P02
+  525  git clone git@github.com:firobeid/Index_Rebalancing.git
+  526  conda activate dev
+  527  cd P02
+  528  cd desktop
+  529  cd P02
+  530  cd bigb_etf_analysis
+  531  streamlit run streamlit_bigb.py
+  532  stream lit run streamlit_bigb.py
+  533  streamlit run streamlit_bigb.py
+  534  conda activate dev
+  535  pip install streamlit
+  536  cd desktop
+  537  cd P02
+  538  cd bigb_etf_analysis
+  539  (dev)streamlit run streamlit_bigb.py
+  540  streamlit run streamlit_big.py
+  541  streamlit run streamlit_bigb.py
+  542  cd desktop
+  543  cd P02
+  544  cd bigb_etf_analysis
+  545  conda activate dev
+  546  streamlit run streamlit_bigb.py
+  547  cd
+  548  cd desktop/P02
+  549  cd bigb_etf_analysis
+  550  cd Streamlit
+  551  streamlit run streamlit_bigp.py
+  552  streamlit run streamlit_bigb.py
+  553  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/bigb_etf_analysis/streamlit_bigb.py
+  554  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/bigb_etf_analysis/streamlit_bigb.py
+  555  /opt/homebrew/bin/python3 /Users/demigod/Desktop/P02/bigb_etf_analysis/Streamlit/streamlit_bigb.py
+  556  python3.9 -m venv /path/to/new/virtual/environment
+  557  python3.9 -m venv ~/myenv
+  558  source ~/myenv/bin/activate
+  559  conda deactivate dev
+  560  conda deactivate
+  561  conda install streamlit
+  562  cd Streamlit
+  563  which python
+  564  pip list
+  565  conda activate dev
+  566  pip list
+  567  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  568  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/bigb_etf_analysis/Streamlit/streamlit_bigb.py
+  569  conda activate dev
+  570  cd desktop
+  571  cd P02
+  572  cd bigb_etf_analysis
+  573  cd Streamlit
+  574  streamlit run streamlit_bigb.py
+  575  conda activate dec
+  576  conda activate dev
+  577  pip list install --upgrade streamlit
+  578  conda activate dev
+  579  pip install --upgrade streamlit
+  580  show streamlit
+  581  pip show stremlit
+  582  pip show streamlit
+  583  pip uninstall streamlit
+  584  pip install streamlit==0.84.0
+  585  pip show streamlit
+  586  conda activate dev
+  587  which python
+  588  pip show stremlit
+  589  pip show streamlit
+  590  conda install streamlit
+  591  pip show steamlit
+  592  pip show streamlit
+  593  which python
+  594  cd desktop/P02/bigb_etf_analysis/Streamlit
+  595  streamlit run streamlit_bgib.py
+  596  streamlit run streamlit_bigb.py
+  597  conda activate dev
+  598  cd desktop/P02
+  599  cd bigb_etf_analysis
+  600  cd Streamlit
+  601  streamlit run streamlit_bigp.py
+  602  streamlit run streamlit_bigb.pyy
+  603  streamlit run streamlit_bigb.py
+  604  conda activate dev
+  605  jupyter lab
+  606  cd desktop
+  607  cd P02
+  608  cd bigb_etf_analysis
+  609  cd Streamlit
+  610  streamlit run streamlit_bigb.py
+  611  conda activate
+  612  conda activate dev
+  613  cd desktop/P02
+  614  cd bigb_etf_analysis/Streamlit
+  615  streamlit run strealit_bigb.py
+  616  streamlit run streamlit_bigb.py
+  617  streamlit config show
+  618  conda activate dev
+  619  streamlit config show
+  620  cd ~
+  621  ls -a
+  622  open .streamlit
+  623  cd ~/.streamlit
+  624  nano config.toml
+  625  conda activate dev
+  626  streamlit run your_script.py --server.port 80
+  627  streamlit run your_script.py [-- script args]
+  628  streamlit run your_script.py -- script args
+  629  cd desktop/P02/bigb_etf_analysis/Streamlit
+  630  streamlit run streamlit_bigb.py --server.port 80
+  631  conda activate dev
+  632  cd ~/.streamlit
+  633  open .streamlit
+  634  cd ~
+  635  cd desktop
+  636  open .stremlit
+  637  cd ~
+  638  conda activate dev
+  639  ls -a
+  640  open .streamlit
+  641  cd /streamlit
+  642  cd desktop/P02/streamlit
+  643  streamlit run streamlit_bigb.py
+  644  cd ~
+  645  ls -a
+  646  open .streamlit
+  647  cd desktop/P02
+  648  cd streamlit
+  649  streamlit run streamlit_bigb.py
+  650  streamlit run streamlit_bigb.py
+  651  conda activate dev
+  652  cd desktop/P02/sreamlit
+  653  cd desktop/P02/
+  654  cd streamlit
+  655  streamlit run streamlit_bigb.py
+  656  conda activate dev
+  657  pip install --upgrade steamlit
+  658  pip install --upgrade streamlit
+  659  pip install streamlit-state
+  660  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  661  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/streamlit/streamlit_bigb.py
+  662  conda activate dev
+  663  pip install streamlit-SessionState
+  664  uninstall streamlit
+  665  pip uninstall streamlit
+  666  pip install streamlit==0.69.2
+  667  cd ~
+  668  cd ~/ls -a
+  669  ls -a
+  670  open .streamlit
+  671  cd desktop/P02/streamlit
+  672  streamlit run streamlit_bigb.py
+  673  cd ~
+  674  ls -all
+  675  ls -a
+  676  open .streamlit
+  677  streamlit run streamlit_bigb.py
+  678  pip uninstall streamlit
+  679  pip install streamlit
+  680  cd desktop/P02/streamlit
+  681  streamlit run streamlit_bigb.py
+  682  streamlit run streamlit_bigb.py
+  683  conda activate dev
+  684  cd desktop/P02/streamlit
+  685  streamlit run streamlit_bigb.py
+  686  conda activate dev
+  687  cd ~
+  688  ls -a
+  689  .streamlit
+  690  .streamlit
+  691  .streamlit
+  692  cd ~
+  693  ls -a
+  694  open .stremlit
+  695  open .streamlit
+  696  conda activate dev
+  697  cd desktop/P02/streamlit
+  698  streamlit run streamlit_bigb.py --server.port 80
+  699  show streamlit
+  700  pip show steamlit
+  701  cd ~
+  702  pip show streamlit
+  703  conda activate dev
+  704  streamlit config show
+  705  cd desktop/P02/steamlit
+  706  cd desktop/P02/streamlit
+  707  streamlit run streamlit_bigb.py
+  708  cd desktop/P02/streamlit
+  709  streamlit run streamlit_bigb.py
+  710  conda activate dev
+  711  cd desktop/P02/streamlit
+  712  cd desktop/P02/streamlit
+  713  streamlit run streamlit_bigb.py
+  714  conda activate dev
+  715  cd desktop/P02/streamlit
+  716  streamlit run main.py
+  717  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  718  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  719  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/streamlit/page/01_questionnaire.py
+  720  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  721  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  722  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  723  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  724  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  725  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  726  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  727  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  728  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  729  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  730  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  731  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  732  cd desktop/P02
+  733  git clone https://github.com/dataprofessor/dashboard-v2.git
+  734  conda activate dev
+  735  cd ~
+  736  pip show streamlit install pandas-datareader
+  737  pip install pandas-datareader
+  738  pip install yahoo_fin
+  739  pip install alpaca_trade_api
+  740  pip install alpaca_trade_api
+  741  git clone -b Julio https://github.com/Demigodgeek/BIGB_analysis_with_machine_learning.git
+  742  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  743  pip show prophet
+  744  conda install prophet
+  745  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  746  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  747  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  748  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  749  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  750  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/data_plugin.py
+  751  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/P02/main_code/verify_function.py
+  752  conda activate dev
+  753  jupyter lab
+  754  conda activate dev
+  755  pip install plost
+  756  pip install yfinance
+  757  jupyter lab
+  758  conda activate dev
+  759  cd desktop/P02/streamlit
+  760  streamlit run st_main.py
+  761  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  762  conda activate dev
+  763  pip show prophet
+  764  conda install prophet
+  765  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  766  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  767  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  768  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  769  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  770  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  771  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  772  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  773  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  774  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  775  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  776  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  777  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  778  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  779  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  780  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  781  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/data_plugin.py
+  782  cd desktop
+  783  cd P02
+  784  git pull -b Julio
+  785  git clone -b git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  786  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  787  conda activate dev
+  788  jupyter lab
+  789  conda activate dev
+  790  jupyter lab
+  791  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  792  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/tune_short_position_algorithm_plugin.py
+  793  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/tune_short_position_algorithm_plugin.py
+  794  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/tune_short_position_algorithm_plugin.py
+  795  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/main.py
+  796  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  797  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/main.py
+  798  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  799  conda activate dev
+  800  cd desktop/P02
+  801  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  802  conda activate dev
+  803  jupyter lab
+  804  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  805  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  806  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/short_position_plugin.py
+  807  conda activate dev
+  808  pip install hvplot
+  809  source /path/to/venv/bin/activate
+  810  source ~/dev/bin/activate
+  811  source /home/demigod/dev/bin/activate
+  812  pip install import pyfolio as pf\n
+  813  cd desktop
+  814  cd P02
+  815  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  816  git pull -b Julio
+  817  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  818  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  819  conda activated dev
+  820  conda active dec
+  821  conda activate dev
+  822  jupyter lab
+  823  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  824  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  825  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/main_2.py
+  826  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  827  cd desk
+  828  cd desk
+  829  cd desktop
+  830  cd desktop
+  831  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  832  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  833  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  834  conda activate dec
+  835  conda activate dev
+  836  cd streamlit
+  837  cd deskttop
+  838  cd desktop
+  839  cd streamlit
+  840  streamlit run st_main.py
+  841  cd desktop
+  842  git clone git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  843  conda activate dev
+  844  jupyter lab
+  845  conda activate dev
+  846  cd desktop
+  847  cd Demi_streamlit
+  848  streamlit run st_main
+  849  streamlit run st_main.py
+  850  conda activate dev
+  851  jupyter lab
+  852  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  853  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/BIGB_analysis_with_machine_learning/cluster_plugin.py
+  854  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/BIGB_analysis_with_machine_learning/cluster_plugin.py
+  855  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  856  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/BIGB_analysis_with_machine_learning/cluster_plugin.py
+  857  cd desktop
+  858  git clone -b Julio git@github.com:Demigodgeek/BIGB_analysis_with_machine_learning.git
+  859  conda activate dev
+  860  conda install selenium
+  861  pip install Pillow
+  862  pip install hvplot tabulate scikit-learn yahoo_fin pandas numpy logging hvplot matplotlib tabulate datatime 
+  863  pip show panda
+  864  pip show pandas
+  865  pip show numpy
+  866  tensorflow
+  867  pip show
+  868  pip show pip hvplot tabulate scikit-learn yahoo_fin
+  869  yhoo_fin
+  870  pip show yahoo_fin
+  871  conda activate dev
+  872  pip show yahoo_fin
+  873  pip show loggin
+  874  pip show logging
+  875  conda activate dev
+  876  jupyter lba
+  877  jupyter lab
+  878  conda activate dev
+  879  pip install wordcloud
+  880  cd desktop
+  881  cd
+  882  conda activate dev
+  883  cd desktop
+  884  cd sentiment_stocks_trading
+  885  streamlit run strem_app.py
+  886  streamlit run stream_app.py
+  887  steamlit run streamlit_app.py
+  888  streamlit run streamlit_app.py
+  889  conda activate dev
+  890  jupyter lab
+  891  conda activate dev
+  892  cd desktop
+  893  cd streamlit
+  894  cd
+  895  pip install -r requirements.txt
+  896  pip install FundamentalAnalysis
+  897  pip install scipy
+  898  pip install pandas-datareader
+  899  pillow
+  900  pip install pillow
+  901  conda activate dev
+  902  cd desktop
+  903  git clone https://github.com/antonio-catalano/StockAnalysisApp.git
+  904  cd StockAnalysisApp
+  905  streamlit run app.py
+  906  streamlit run app.py
+  907  conda activate dev
+  908  pip install FundamentalAnalysis
+  909  conda install FundamentalAnalysis
+  910  conda install FundamentalAnalysis
+  911  conda deactive
+  912  conda deactivate
+  913  create --name strenv
+  914  conda create --name strenv
+  915  canda activate myenv
+  916  conda activate myenv
+  917  conda activate strenv
+  918  conda install FundamentalAnalysis
+  919  conda avtivate dev
+  920  conda activate dev
+  921  cd desktop/streamlit
+  922  streamlit run app.py
+  923  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  924  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/streamlit/app.py
+  925  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  926  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  927  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/streamlit/bigb_1_cluster_plugin.py
+  928  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  929  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  930  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/main_code/bigb_1_cluster_plugin.py
+  931  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  932  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  933  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  934  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  935  conda avtivate dev
+  936  conda activate dev
+  937  cd desktop/streamlit
+  938  streamlit run bigb.py
+  939  conda activate dev
+  940  cd desktop/streamlit
+  941  streamlit run bigb.py
+  942  conda activate dev
+  943  cd desktop
+  944  cd streamlit
+  945  streamlit run app.py
+  946  streamlit run bigbp.py
+  947  streamlit run bigb.py
+  948  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  949  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  950  pip show streamlit
+  951  conda activate dev
+  952  ppip show steamlit
+  953  pip show streamlit
+  954  pip show yahoo_fin
+  955  pip show pandas
+  956  pip show numpy
+  957  pip show logging
+  958  pip install logging
+  959  conda install logging
+  960  pip show hvplot
+  961  pip show matplotlib
+  962  holoviews
+  963  pip show holoviewa
+  964  pip show holoviews
+  965  pip show bokeh
+  966  pip show tabulate
+  967  pip show scikit-learn
+  968  conda activate dev
+  969  cd desktop/streamlit
+  970  streamlit run _main.py
+  971  streamlit run _main.py
+  972  conda activate dev
+  973  jupyter lab
+  974  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+  975  /Users/demigod/opt/anaconda3/envs/dev/bin/python
+  976  conda activate dev
+  977  cd desktop/ucb/p02
+  978  git clone https://github.com/Demigodgeek/BIGB_analysis_with_machine_learning.git
+  979  cd desktop
+  980  cd ~
+  981  cd desktop
+  982  cd ucb
+  983  git initial
+  984  git init
+  985  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2022-U-B.git
+  986  conda activate dev
+  987  jupyter lab
+  988  conda activate dev
+  989  jupyter lab
+  990  conda activate dev
+  991  jupyterlab
+  992  jupyter lab
+  993  cd desktop
+  994  git clone https://github.com/lestercardoz11/fault-detection-for-predictive-maintenance-in-industry-4.0.git
+  995  git clone https://github.com/firobeid/Forecasting-techniques.git
+  996  conda activate dev
+  997  cd UCB
+  998  cd M18
+  999  cd 18.2.3_Build_a_Blockchain_Block/solved
+ 1000  streamlit run app.py
+ 1001  source /opt/anaconda3/bin/activate /Users/demigod/opt/anaconda3/envs/dev
+ 1002  /Users/demigod/opt/anaconda3/envs/dev/bin/python /Users/demigod/Desktop/UCB/M02/Starter_Code/loan_qualifier_app/app.py
+ 1003  pwd
+ 1004  ls
+ 1005  cd myenv
+ 1006  ls
+ 1007  cd
+ 1008  cd ~
+ 1009  cd ..
+ 1010  cd
+ 1011  cd opt
+ 1012  ls
+ 1013  ls -a
+ 1014  ls -l
+ 1015  cd
+ 1016  ls; pwd
+ 1017  cd desktop
+ 1018  ls; pwd
+ 1019  cd UCB/M02
+ 1020  python cli.py
+ 1021  conda activate dev
+ 1022  cd
+ 1023  cd desktop/UCB/M02
+ 1024  python cli.py
+ 1025  python cli.py --pants=True
+ 1026  python cli.py --pants=True
+ 1027  pip show questionary
+ 1028  cd
+ 1029  pip show questionary
+ 1030  cd desktop/ucb/m02
+ 1031  python dialog.py
+ 1032  ls
+ 1033  cd Challenge_2
+ 1034  ls
+ 1035  git clone https://github.com/Demigodgeek/-C2_Add_Features_to_Loan_Qualifier_Application.git
+ 1036  git clong https://github.com/Demigodgeek/C2_Add_Features_to_Loan_Qualifier_Application.git
+ 1037  git clone https://github.com/Demigodgeek/C2_Add_Features_to_Loan_Qualifier_Application.git
+ 1038  cd C2_Add_Features_to_Loan_Qualifier_Application
+ 1039  history 50 > terminal_history.txt
+ 1040  history -n 50 > terminal_history.txt
+ 1041  history -n 50 > terminal_history.txt
+ 1042  history 50 > terminal_history.txt
+ 1043  history 50 > terminal_history.txt
+ 1044  history | tail -n 50 > terminal_history.txt
+ 1045  history | tail -n 50 > terminal_history.txt
