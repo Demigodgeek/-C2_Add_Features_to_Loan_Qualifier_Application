@@ -1,4 +1,4 @@
-# Adding New Feature to the Lending Software
+# Adding New Features to the Lending Software
 
 This project is to add a new feature, which is prompting the user to save the qualifying loans as a new CSV file, to the existing lending software.
 
